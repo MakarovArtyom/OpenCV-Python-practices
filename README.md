@@ -35,7 +35,7 @@ More Computer Vision exercises can be found under Udacity CVND repo: https://git
 <br><br>
 
 *Medical image filtering*<br><br>
-<img src="https://github.com/MakarovArtyom/OpenCV-Python-practices/blob/master/assets/brain.PNG" width=320, height="280" align="center"/>
+<img src="https://github.com/MakarovArtyom/OpenCV-Python-practices/blob/master/assets/brain_orig.PNG" width=310, height="300" align="center"/>
 <br><br>
 
-<img src="https://github.com/MakarovArtyom/OpenCV-Python-practices/blob/master/assets/brain_filter.PNG" width=320, height="280" align="center"/>
+<img src="https://github.com/MakarovArtyom/OpenCV-Python-practices/blob/master/assets/brain_filter.PNG" width=310, height="300" align="center"/>
