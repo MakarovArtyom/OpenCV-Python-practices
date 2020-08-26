@@ -33,3 +33,9 @@ More Computer Vision exercises can be found under Udacity CVND repo: https://git
 *Face detection with Haar cascade*<br><br>
 <img src="https://github.com/MakarovArtyom/OpenCV-Python-practices/blob/master/assets/faces.PNG" width=400, height="350" align="center"/>
 <br><br>
+
+*Medical image filtering*<br><br>
+<img src="https://github.com/MakarovArtyom/OpenCV-Python-practices/blob/master/assets/brain.PNG" width=320, height="280" align="center"/>
+<br><br>
+
+<img src="https://github.com/MakarovArtyom/OpenCV-Python-practices/blob/master/assets/brain_filter.PNG" width=320, height="280" align="center"/>
