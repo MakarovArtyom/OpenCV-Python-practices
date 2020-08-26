@@ -14,7 +14,18 @@ More Computer Vision exercises can be found under Udacity CVND repo: https://git
 
 ## Examples
 
-*Custom filtering with Gaussian blur*<br>
-<img src="https://github.com/MakarovArtyom/OpenCV-Python-practices/blob/master/assets/a_orig.PNG" width=320, height="300" align="center"/>
-<br>
-<img src="https://github.com/MakarovArtyom/OpenCV-Python-practices/blob/master/assets/a_custom.PNG" width=320, height="300" align="center"/>
+*Custom filtering with Gaussian blur*<br><br>
+<img src="https://github.com/MakarovArtyom/OpenCV-Python-practices/blob/master/assets/a_orig.PNG" width=320, height="280" align="center"/>
+<br><br>
+
+<img src="https://github.com/MakarovArtyom/OpenCV-Python-practices/blob/master/assets/a_custom.PNG" width=320, height="280" align="center"/>
+
+<br><br>
+
+*Canny Edge detection*<br><br>
+<img src="https://github.com/MakarovArtyom/OpenCV-Python-practices/blob/master/assets/grey_img.PNG" width=280, height="320" align="center"/>
+<br><br>
+
+<img src="https://github.com/MakarovArtyom/OpenCV-Python-practices/blob/master/assets/canny_img.PNG" width=280, height="320" align="center"/>
+
+<br><br>
