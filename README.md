@@ -23,9 +23,13 @@ More Computer Vision exercises can be found under Udacity CVND repo: https://git
 <br><br>
 
 *Canny Edge detection*<br><br>
-<img src="https://github.com/MakarovArtyom/OpenCV-Python-practices/blob/master/assets/grey_img.PNG" width=280, height="320" align="center"/>
+<img src="https://github.com/MakarovArtyom/OpenCV-Python-practices/blob/master/assets/grey_img.PNG" width=280, height="330" align="center"/>
 <br><br>
 
-<img src="https://github.com/MakarovArtyom/OpenCV-Python-practices/blob/master/assets/canny_img.PNG" width=280, height="320" align="center"/>
+<img src="https://github.com/MakarovArtyom/OpenCV-Python-practices/blob/master/assets/canny_img.PNG" width=280, height="330" align="center"/>
 
+<br><br>
+
+*Face detection with Haar cascade*<br><br>
+<img src="https://github.com/MakarovArtyom/OpenCV-Python-practices/blob/master/assets/faces.PNG" width=400, height="350" align="center"/>
 <br><br>
