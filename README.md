@@ -10,4 +10,11 @@ More Computer Vision exercises can be found under Udacity CVND repo: https://git
  * [Edge detection and Convolutional filters](https://github.com/MakarovArtyom/OpenCV-Python-practices/tree/master/CV%20Part%202_%20Edge%20detection%20and%20Convolutional%20filters)
  * [Corner detection](https://github.com/MakarovArtyom/OpenCV-Python-practices/tree/master/CV%20Part%203_%20Corner%20detection)
  * [Feature vectors](https://github.com/MakarovArtyom/OpenCV-Python-practices/tree/master/CV%20Part%204_%20Feature%20vectors)
- 
+
+
+## Examples
+
+*Custom filtering with Gaussian blur*
+<img src="https://github.com/MakarovArtyom/OpenCV-Python-practices/blob/master/assets/a_orig.PNG" width=600, height="600" align="center"/>
+
+<img src="https://github.com/MakarovArtyom/OpenCV-Python-practices/blob/master/assets/a_custom.PNG" width=600, height="600" align="center"/>
